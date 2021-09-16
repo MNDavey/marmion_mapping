@@ -8,8 +8,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 
 ## Live links (replace with your own)
 - Leaflet Map https://mndavey.github.io/marmion_mapping/
-- Google Sheets template https://docs.google.com/spreadsheets/d/1AO6XHL_0JafWZF4KEejkdDNqfuZWUk3SlNlQ6MjlRFM/edit#gid=0
-
+- Google Sheets template https://docs.google.com/spreadsheets/d/1S8mzF2-bnoz5Z1L5Brk8cTRnwbwBGT8aTl42zbvzxW4/edit#gid=70869349 
 ## Create Your Own
 - See step-by-step tutorial in *Hands-On Data Visualization* https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html
 
